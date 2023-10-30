@@ -1,0 +1,18 @@
+.dropdown-download {
+    background-color: white;
+    border: 1px solid rgb(234, 234, 242);
+    box-shadow: rgba(34, 34, 34, 0.12) 0px 2px 4px, rgba(34, 34, 34, 0.12) 0px 0px 1px;
+    border-radius: 0px 0px 8px 8px;
+    transition: all linear 0.3s;
+  }
+
+  .dropdown-download img{
+    margin: 15px;
+    width: 178px;
+    height: 50px;
+  }
+
+  .dropdown-download h4{
+    margin: 15px;
+    color: rgb(53, 53, 67);
+  }

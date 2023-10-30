@@ -1,0 +1,37 @@
+.dropdown-profile {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid rgb(234, 234, 242);
+    box-shadow: rgba(34, 34, 34, 0.12) 0px 2px 4px, rgba(34, 34, 34, 0.12) 0px 0px 1px;
+    border-radius: 0px 0px 8px 8px;
+    transition: all linear 0.3s;
+    width: 250px;
+    padding: 15px;
+  }
+
+.dropdown-profile p{
+    margin-bottom: 10px;
+    font-size: 10px;
+}
+
+.dropdown-profile button{
+    margin-bottom: 10px;
+    color: white;
+    background-color: rgb(159, 32, 137);
+    border: none;
+    border-radius: 5px;
+    align-self: center;
+    width: 100%;
+    height: 40px;
+    font-size: 20px;
+}
+
+.profile-row-separator{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 1px;
+    background-color: rgb(206, 206, 222);
+    border-radius: 2px;
+    width: 100%;
+}
